@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building innovative web applications and contributing to open-source projects.<br>👯 I’m looking to collaborate on projects that involve React, Node.js, and TypeScript or anything that pushes the boundaries of modern web development.<br>🤝 I’m looking for help with exploring best practices for scalable architecture and cloud deployment strategies.<br>🌱 I’m currently learning advanced Typescript, serverless architecture, and diving deeper into DevOps tools like Docker and Kubernetes.<br>💬 Ask me about web development, creating secure REST APIs, React component architecture, or tips on building side projects.<br>⚡ Fun fact: When I'm not coding, I love to experiment with music production and I have a growing collection of vintage video games!
+🔭 I’m currently learning and building cool web apps to grow my skills.<br>👯 I’d love to collaborate on fun projects using React, Node.js, or TypeScript.<br>🌱 Exploring tools and techniques to write better code and deploy projects easily.<br>💬 Ask me about starting side projects or basic web development tips.<br>⚡ Fun fact: I enjoy listening to cool Music and love video games!
 
 
 ## 🌐 Socials:
